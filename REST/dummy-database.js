@@ -2,32 +2,32 @@ const database = {
   USERS: [
     {
       uid: 1,
-      name: '김은혜',
+      name: '김버그',
       cohort_num: 22
     },
     {
       uid: 2,
-      name: '강한결',
+      name: '강버그',
       cohort_num: 22
     },
     {
       uid: 3,
-      name: '이빛나',
+      name: '이버그',
       cohort_num: null
     },
     {
       uid: 4,
-      name: '피승권',
+      name: '피버그',
       cohort_num: 23
     },
     {
       uid: 5,
-      name: '조정빈',
+      name: '조버그',
       cohort_num: 24
     },
     {
       uid: 6,
-      name: '박준석',
+      name: '박버그',
       cohort_num: 25
     }
   ],
